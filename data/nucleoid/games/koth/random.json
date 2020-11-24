@@ -6,6 +6,7 @@
     "koth:skyland",
     "koth:ice",
     "koth:deathmatch",
-    "nucleoid:koth/stack"
+    "nucleoid:koth/stack",
+    "koth:island"
   ]
 }
